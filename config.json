@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "web-scraping",
+      "title": "Web Scraping & HTTP Requests",
+      "description": "Learn to fetch and parse real-world web data using Python requests and BeautifulSoup.",
+      "path": "assignments/web-scraping",
+      "dueDate": "2026-07-27",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
